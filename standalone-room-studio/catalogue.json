@@ -1,0 +1,192 @@
+{
+  "palettes": {
+    "sand": {
+      "name": "Sand & Oak",
+      "cloth": "#e0c5a3",
+      "wood": "#906447"
+    },
+    "sage": {
+      "name": "Sage & Walnut",
+      "cloth": "#a9b294",
+      "wood": "#644938"
+    }
+  },
+  "rooms": {
+    "bedroom": {
+      "name": "Bedroom",
+      "description": "Layer a restful sleep space around a bed, bedside storage and soft lighting.",
+      "looks": {
+        "calm": [
+          "platform-bed",
+          "one-drawer",
+          "dome-lamp"
+        ],
+        "cozy": [
+          "wingback-bed",
+          "two-drawer",
+          "shade-lamp"
+        ]
+      }
+    },
+    "living": {
+      "name": "Living Room",
+      "description": "Build a seating area around a generous sofa, a coffee table and lighting for reading.",
+      "looks": {
+        "calm": [
+          "track-sofa",
+          "round-table",
+          "dome-lamp"
+        ],
+        "cozy": [
+          "roll-sofa",
+          "oval-table",
+          "shade-lamp"
+        ]
+      }
+    },
+    "kids": {
+      "name": "Kids’ Room",
+      "description": "A school-age room with separate places to sleep, put things away and do homework.",
+      "looks": {
+        "calm": [
+          "single-bed",
+          "open-cubby",
+          "straight-desk"
+        ],
+        "cozy": [
+          "single-wingback",
+          "drawer-cubby",
+          "curved-desk"
+        ]
+      }
+    }
+  },
+  "products": {
+    "platform-bed": {
+      "name": "Dalia Upholstered Bed",
+      "priceFils": 229000,
+      "kind": "bed",
+      "available": true
+    },
+    "one-drawer": {
+      "name": "Dana Bedside Table",
+      "priceFils": 49000,
+      "kind": "nightstand",
+      "available": true
+    },
+    "dome-lamp": {
+      "name": "Nour Floor Lamp",
+      "priceFils": 39000,
+      "kind": "lamp",
+      "available": true
+    },
+    "wingback-bed": {
+      "name": "Layal Upholstered Bed",
+      "priceFils": 289000,
+      "kind": "bed",
+      "available": true
+    },
+    "two-drawer": {
+      "name": "Lina Bedside Chest",
+      "priceFils": 69000,
+      "kind": "nightstand",
+      "available": true
+    },
+    "shade-lamp": {
+      "name": "Mira Fabric Floor Lamp",
+      "priceFils": 59000,
+      "kind": "lamp",
+      "available": false
+    },
+    "track-sofa": {
+      "name": "Noura Three-Seater Sofa",
+      "priceFils": 279000,
+      "kind": "sofa",
+      "available": true
+    },
+    "round-table": {
+      "name": "Rami Coffee Table",
+      "priceFils": 79000,
+      "kind": "table",
+      "available": true
+    },
+    "roll-sofa": {
+      "name": "Amal Sofa",
+      "priceFils": 359000,
+      "kind": "sofa",
+      "available": true
+    },
+    "oval-table": {
+      "name": "Sami Coffee Table",
+      "priceFils": 99000,
+      "kind": "table",
+      "available": true
+    },
+    "single-bed": {
+      "name": "Hala Single Bed",
+      "priceFils": 149000,
+      "kind": "bed",
+      "available": true
+    },
+    "open-cubby": {
+      "name": "Rana Cube Storage",
+      "priceFils": 55000,
+      "kind": "storage",
+      "available": true
+    },
+    "straight-desk": {
+      "name": "Tariq Study Desk",
+      "priceFils": 79000,
+      "kind": "desk",
+      "available": true
+    },
+    "single-wingback": {
+      "name": "Yara Single Bed",
+      "priceFils": 189000,
+      "kind": "bed",
+      "available": true
+    },
+    "drawer-cubby": {
+      "name": "Zain Storage Unit",
+      "priceFils": 89000,
+      "kind": "storage",
+      "available": false
+    },
+    "curved-desk": {
+      "name": "Leen Study Desk",
+      "priceFils": 99000,
+      "kind": "desk",
+      "available": true
+    }
+  },
+  "finishes": {
+    "bed": {
+      "sand": "Sand-beige upholstery",
+      "sage": "Muted sage upholstery"
+    },
+    "nightstand": {
+      "sand": "Light oak finish",
+      "sage": "Walnut finish"
+    },
+    "sofa": {
+      "sand": "Cream woven upholstery",
+      "sage": "Sage woven upholstery"
+    },
+    "table": {
+      "sand": "Natural oak finish",
+      "sage": "Walnut finish"
+    },
+    "storage": {
+      "sand": "Pale oak finish",
+      "sage": "Walnut finish"
+    },
+    "desk": {
+      "sand": "Pale oak finish",
+      "sage": "Walnut finish"
+    },
+    "lamp": {
+      "sand": "Warm neutral finish",
+      "sage": "Warm neutral finish"
+    }
+  }
+}

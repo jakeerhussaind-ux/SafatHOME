@@ -1,0 +1,226 @@
+{
+  "bedroom-calm-sand": {
+    "width": 764,
+    "height": 492,
+    "items": [
+      {
+        "x": 56.07,
+        "y": 74.84
+      },
+      {
+        "x": 17.75,
+        "y": 69.63
+      },
+      {
+        "x": 87.91,
+        "y": 38.09,
+        "finish": "Ivory metal shade \u00b7 brass-tone stem"
+      }
+    ]
+  },
+  "bedroom-calm-sage": {
+    "width": 764,
+    "height": 492,
+    "items": [
+      {
+        "x": 55.65,
+        "y": 75.16
+      },
+      {
+        "x": 17.96,
+        "y": 68.98
+      },
+      {
+        "x": 88.32,
+        "y": 37.76,
+        "finish": "Sage metal shade \u00b7 brass-tone stem"
+      }
+    ]
+  },
+  "bedroom-cozy-sand": {
+    "width": 764,
+    "height": 492,
+    "items": [
+      {
+        "x": 55.65,
+        "y": 69.96
+      },
+      {
+        "x": 17.12,
+        "y": 67.68
+      },
+      {
+        "x": 89.16,
+        "y": 33.21,
+        "finish": "Linen-look shade \u00b7 bronze-tone stem"
+      }
+    ]
+  },
+  "bedroom-cozy-sage": {
+    "width": 764,
+    "height": 492,
+    "items": [
+      {
+        "x": 54.61,
+        "y": 69.63
+      },
+      {
+        "x": 18.8,
+        "y": 68.33
+      },
+      {
+        "x": 89.37,
+        "y": 33.54,
+        "finish": "Flax fabric shade \u00b7 dark bronze-tone stem"
+      }
+    ]
+  },
+  "living-calm-sand": {
+    "width": 764,
+    "height": 492,
+    "items": [
+      {
+        "x": 45.81,
+        "y": 55.0
+      },
+      {
+        "x": 56.28,
+        "y": 86.22
+      },
+      {
+        "x": 90.42,
+        "y": 35.81,
+        "finish": "Ivory dome shade \u00b7 brass-tone stem"
+      }
+    ]
+  },
+  "living-calm-sage": {
+    "width": 764,
+    "height": 492,
+    "items": [
+      {
+        "x": 43.72,
+        "y": 54.02
+      },
+      {
+        "x": 56.7,
+        "y": 86.22
+      },
+      {
+        "x": 90.63,
+        "y": 35.81,
+        "finish": "Olive dome shade \u00b7 brass-tone stem"
+      }
+    ]
+  },
+  "living-cozy-sand": {
+    "width": 764,
+    "height": 492,
+    "items": [
+      {
+        "x": 43.93,
+        "y": 52.07
+      },
+      {
+        "x": 57.54,
+        "y": 84.92
+      },
+      {
+        "x": 89.79,
+        "y": 33.86,
+        "finish": "Natural fabric shade \u00b7 oak-tone stem"
+      }
+    ]
+  },
+  "living-cozy-sage": {
+    "width": 764,
+    "height": 492,
+    "items": [
+      {
+        "x": 43.93,
+        "y": 52.07
+      },
+      {
+        "x": 56.91,
+        "y": 84.92
+      },
+      {
+        "x": 90.84,
+        "y": 33.86,
+        "finish": "Natural fabric shade \u00b7 walnut-tone stem"
+      }
+    ]
+  },
+  "kids-calm-sand": {
+    "width": 764,
+    "height": 492,
+    "items": [
+      {
+        "x": 22.77,
+        "y": 67.36
+      },
+      {
+        "x": 56.28,
+        "y": 60.85
+      },
+      {
+        "x": 81.41,
+        "y": 57.28
+      }
+    ]
+  },
+  "kids-calm-sage": {
+    "width": 764,
+    "height": 492,
+    "items": [
+      {
+        "x": 22.77,
+        "y": 68.01
+      },
+      {
+        "x": 56.49,
+        "y": 60.85
+      },
+      {
+        "x": 83.93,
+        "y": 57.6
+      }
+    ]
+  },
+  "kids-cozy-sand": {
+    "width": 764,
+    "height": 492,
+    "items": [
+      {
+        "x": 20.47,
+        "y": 64.43
+      },
+      {
+        "x": 56.07,
+        "y": 54.35
+      },
+      {
+        "x": 77.85,
+        "y": 57.6
+      }
+    ]
+  },
+  "kids-cozy-sage": {
+    "width": 764,
+    "height": 492,
+    "items": [
+      {
+        "x": 19.84,
+        "y": 65.41
+      },
+      {
+        "x": 56.28,
+        "y": 54.02
+      },
+      {
+        "x": 77.85,
+        "y": 57.93
+      }
+    ]
+  }
+}
